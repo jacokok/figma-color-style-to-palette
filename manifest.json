@@ -1,7 +1,7 @@
 {
-  "name": "ColorStyleToPalette",
+  "name": "Color Style to Palette",
   "id": "1070302358561441922",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": ["figma", "figjam"]
+  "editorType": ["figma"]
 }
